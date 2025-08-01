@@ -17,6 +17,4 @@ I'm an AI engineer and startup builder passionate about making machine learning 
 ### 📌 Featured Projects
 Check out my pinned repositories below for recent AI/ML work and startup builds.
 
----
 
-> “Most AI systems are optimized to perform — I’m more interested in how they can serve.”
